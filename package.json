@@ -1,0 +1,22 @@
+{
+  "name": "async-landing-cv",
+  "version": "1.0.0",
+  "description": "landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sgutierrezgf/async-landing-CV.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Sebastian Gutierrez Guisao segut10@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sgutierrezgf/async-landing-CV/issues"
+  },
+  "homepage": "https://github.com/Sgutierrezgf/async-landing-CV#readme"
+}
